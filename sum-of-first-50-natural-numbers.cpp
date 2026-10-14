@@ -1,3 +1,5 @@
+//Name:Awais
+//Reg No:l1f25bscs1002
 #include <iostream>
 using namespace std;
 
